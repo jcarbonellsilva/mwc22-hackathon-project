@@ -3,7 +3,7 @@
 ###### Created by Jordi Carbonell Silva
 
 En este repositorio podran encontrar 7 archivos:
-* Los 3 importantes son los siguientes:
+* Los archivos importantes son los 3 siguientes:
   * El archivo en formato Notebook (.ipynb) 
   * El archivo con el resultado de la clasificación de los clientes - CSV results.csv
   * Archivo HTML - contiene el código para descargarlo y crear archivo HTML para abrirlo en el buscador.
